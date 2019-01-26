@@ -4,9 +4,10 @@
             {"name": "Facebook",  "url": "https://www.facebook.com"},
             {"name": "Gmail", "url": "https://mail.google.com/mail/u/0/#inbox"},
             {"name": "Pirate Bay", "url": "https://thepiratebay.org"},
-            {"name": "Triggr",  "url": "https://www.tumblr.com"},
             {"name": "Twitter", "url": "https://www.twitter.com"},
-            {"name": "Amazon", "url": "https://www.amazon.ca"}         
+            {"name": "Amazon", "url": "https://www.amazon.ca"},                     
+            {"name": "SSavr",    "url": "https://www.ssavr.com"}
+
         ]},
  
         {"name":".exe", "links": [
@@ -27,9 +28,7 @@
             {"name": "Videos",    "url": "https://www.reddit.com/r/videos"},
             {"name": "Youtube Haiku",    "url": "https://www.reddit.com/r/youtubehaiku"},
             {"name": "Twitch.tv",  "url": "https://www.twitch.tv"},
-            {"name": "Youtube", "url": "https://www.youtube.com"},
-            {"name": "Artisan Videos",    "url": "https://www.reddit.com/r/artisanvideos"},
-            {"name": "SoundCloud",    "url": "https://www.soundcloud.com"}         
+            {"name": "Artisan Videos",    "url": "https://www.reddit.com/r/artisanvideos"}
         ]},    
        
         {"name":".psd", "links": [
@@ -46,21 +45,15 @@
         ]},
         
         {"name":".html", "links": [
-            {"name": "Rainmeter", "url": "https://www.reddit.com/r/rainmeter"},
-            {"name": "Internet is Beautiful",  "url": "https://www.reddit.com/r/internetisbeautiful"},
-            {"name": "GitHub",    "url": "https://github.com"},
-            {"name": "SSavr",    "url": "https://www.ssavr.com"}
+            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
 
             
         ]},
        
         {"name":".pdf", "links": [
-            {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
-            {"name": "tgchan",    "url": "https://tgchan.org/kusaba/quest/"},
-            {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
-            {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
-            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
-            {"name": "Noteself",    "url": "https://noteself.github.io/online/#"}
+            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
 
 
         ]},
