@@ -52,8 +52,14 @@
         ]},
        
         {"name":".pdf", "links": [
-            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
+            {"name": "omnivox",          "url": "https://johnabbott.omnivox.ca/"},
+            {"name": "/vg/",      "url": "https://myhentaicomics.com/"},
+            {"name": "/g/",          "url": "http://www.4chan.org/gif/"},
+            {"name": "/g/",          "url": "https://e621.net/post/index?tags=comic"},
+            {"name": "/vg/",      "url": "https://e621.net/post/index/1/animated"},
+            {"name": "/vg/",      "url": "https://fetlife.com/inbox"},
+            {"name": "/g/",          "url": "https://nhentai.net/"},
+            {"name": "/vg/",      "url": "http://www.furaffinity.net/msg/submissions/"}
 
 
         ]},
